@@ -12,9 +12,9 @@ for the Core Marketplace Team at Zentrais.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulazeez-mustapha-615200347)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abdulazeez.mustapha.olu@gmail.com)
 
-| 90+ | 10+ | 3 | 
+| 90+ | 10+ | 3 | 2+ |
 |:---:|:---:|:---:|:---:|
-| Reusable Components | Production Applications | Industries | 
+| Reusable Components | Production Applications | Industries | Years Experience |
 
 </div>
 
